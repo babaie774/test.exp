@@ -1,0 +1,23 @@
+{
+  "name": "test.exp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babaie774/test.exp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babaie774/test.exp/issues"
+  },
+  "homepage": "https://github.com/babaie774/test.exp#readme",
+  "dependencies": {
+    "@types/jest": "^29.0.0",
+    "jest": "^29.0.2"
+  }
+}
